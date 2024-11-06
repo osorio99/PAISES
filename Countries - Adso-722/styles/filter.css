@@ -8,9 +8,9 @@
 }
 
 .frm-filters > fieldset{
-    width: 17rem;
+    width: 20rem;
     padding: 0.5;
-    margin-top: 0.2rem;
+    margin-top: 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -30,8 +30,9 @@ fieldset > select{
 
 
 .demographics{
- width: 17rem;
- height: 18rem;
+ width: 20rem;
+ 
+ height: 21rem;
  overflow: hidden;
  border: double 2px #4242f29f;
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
